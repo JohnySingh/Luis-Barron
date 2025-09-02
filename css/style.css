@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #F6D155;
+    background: #413f3a;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -47,7 +47,7 @@ a:focus {
     width: 100%;
     padding: 15px;
     float: left;
-    background: #F6D155;
+    background: #413f3a;
 }
 
 .wrapper .sidebar-header,
@@ -112,7 +112,7 @@ a:focus {
         content: "";
         width: 100%;
         height: 30px;
-        background: #F6D155;
+        background: #413f3a;
         z-index: 1;
     }
     
@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(https://media.licdn.com/dms/image/v2/D5603AQH2VsL5itKBEQ/profile-displayphoto-shrink_400_400/B56Zaid5tLGUAg-/0/1746482470467?e=1752105600&v=beta&t=Pgp4PDeJtKvvcamyIzx6OGwxvMk74PJOhcph893YQes) right bottom no-repeat;
+    background: url(../1746482470467\ \(1\).jfif) right bottom no-repeat;
     background-size: contain;
 }
 
@@ -326,7 +326,7 @@ a:focus {
 }
 
 .header h1 {
-   color: #ffcc00;
+   color:#ff0000 ;
     font-size: 50px;
     font-weight: 700;
 }
@@ -355,7 +355,7 @@ a:focus {
 
 .large-btn .content-inner {
     font-size: 0;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid#413f3a;
 }
 
 .large-btn .btn {
@@ -430,7 +430,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid #413f3a;
 }
 
 
@@ -498,7 +498,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid#413f3a;
 }
 
 .education .edu-col {
@@ -571,7 +571,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid #413f3a;
 }
 
 .experience .exp-col {
@@ -658,7 +658,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid#413f3a;
 }
 
 .service .srv-col {
@@ -705,7 +705,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid #413f3a;
 }
 
 .portfolio #portfolio-flters {
@@ -852,7 +852,7 @@ a:focus {
 .review {
     position: relative;
     background: #ffffff;
-    border-bottom: 30px solid #F6D155;
+    border-bottom: 30px solid  #413f3a;
 }
 
 .review .content-inner {
@@ -1068,7 +1068,7 @@ a:focus {
 
 .contact .form .btn:hover {
     color: #FF6F61;
-    background: #222222;
+    background: white;
 }
 
 
@@ -1079,7 +1079,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 30px 30px 0 30px;
-    background: #F6D155;
+    background:#413f3a;
 }
 
 .footer .col-md-6:last-child {
@@ -1094,7 +1094,7 @@ a:focus {
 }
 
 .footer p {
-    color: #222222;
+    color: white;
     margin: 0;
 }
 
@@ -1104,6 +1104,6 @@ a:focus {
 }
 
 .footer a:hover {
-    color: #222222;
+    color: white;
 }
 
